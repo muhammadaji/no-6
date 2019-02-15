@@ -8,3 +8,4 @@ main = (email) => {
 }
 
 main('dashgdy27t4@gmail.com');
+main('kulineri kuy');
